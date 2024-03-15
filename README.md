@@ -4,7 +4,7 @@ This script automates the installation process of Discord on a Linux system. It 
 
 ## Usage
 
-**Note:** Run this script with elevated privileges.
+Run this script with elevated privileges.
 
 ```bash
 sudo bash install_discord.sh
@@ -12,7 +12,7 @@ sudo bash install_discord.sh
 
 ## Installation Directories
 
-**Note:** The installation directories can be customized based on personal preferences. If you wish to change the default paths, you can modify the corresponding variables at the beginning of the script.
+The installation directories can be customized based on personal preferences. If you wish to change the default paths, you can modify the corresponding variables at the beginning of the script.
 
 - **Installation Directory:** `/opt/`
 - **Temporary Directory:** `/tmp/`
