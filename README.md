@@ -4,7 +4,7 @@ This script automates the installation process of Discord on a Linux system. It 
 
 ## Usage
 
-**Note:** It is recommended to run this script with elevated privileges using `sudo`.
+**Note:** Run this script with elevated privileges.
 
 ```bash
 sudo bash install_discord.sh
